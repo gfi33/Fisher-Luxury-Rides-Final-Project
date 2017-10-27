@@ -1,2 +1,1 @@
-# FisherLuxuryRidesFinalProject
-Front End Foundations Final Project
+Front End Final Project
